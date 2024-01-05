@@ -1,3 +1,3 @@
-install two things 
-npm install @tailwindcss/typography
-npm install ailwindcss-animate
+Step 2nd 
+
+this is the way to create routing in next js, it is haveing auth and root folders as routing groups
